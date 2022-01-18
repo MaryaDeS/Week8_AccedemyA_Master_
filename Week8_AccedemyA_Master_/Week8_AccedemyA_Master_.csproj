@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Week8_AccedemyA_Master_Core\Week8_AccedemyA_Master_Core.csproj" />
+    <ProjectReference Include="..\Week8_AccedemyA_Master_RepositoryMock\Week8_AccedemyA_Master_RepositoryMock.csproj" />
+  </ItemGroup>
+
+</Project>
